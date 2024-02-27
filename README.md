@@ -1,6 +1,6 @@
 # PacMen Exercise
 
-##In this exercise, multiple Pacmen were created dynamically upon button click. They move randomly across the screen, with their positions adjusted to stay within the page boundaries. This enhanced the Pacman game's functionality and interactivity.
+## In this exercise, multiple Pacmen were created dynamically upon button click. They move randomly across the screen, with their positions adjusted to stay within the page boundaries. This enhanced the Pacman game's functionality and interactivity.
 
 ## How to Run:
 - Save the HTML and JavaScript code in separate files, with the JavaScript file named "pacmen.js".
