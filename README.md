@@ -2,7 +2,7 @@
 
 ##In this exercise, multiple Pacmen were created dynamically upon button click. They move randomly across the screen, with their positions adjusted to stay within the page boundaries. This enhanced the Pacman game's functionality and interactivity.
 
-##How to Run:
+## How to Run:
 - Save the HTML and JavaScript code in separate files, with the JavaScript file named "pacmen.js".
 - Place both files in the same directory.
 - Open the HTML file in a web browser (double-click the HTML file to open it).
@@ -10,12 +10,12 @@
 - Click the "Start Game" button to start moving the PacMan(s) across the screen randomly.
 - Check the image files referenced in the JavaScript code (e.g., "PacMan1.png", "PacMan2.png", etc..) are also present in the same directory as the HTML and JavaScript files.
 
-##Future Improvements:
+## Future Improvements:
 - Add a button to stop the PacMan(s) from moving.
 - Add a button to remove all PacMan(s) from the screen.
 - Add a button to restart the game.
 
-##License Information:
+## License Information:
 
 MIT License
 
